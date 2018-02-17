@@ -1,0 +1,5 @@
+MOV #4 R8
+ADD #3 R8
+INC R8
+OUTN R8
+HLT
